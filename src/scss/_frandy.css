@@ -1,0 +1,50 @@
+.nav{
+  background-color: beige;
+  padding-bottom: 400px;
+}
+.bienvenidos{
+  background-color: red;
+  padding-bottom: 100px;
+
+}
+
+.content1 {
+  background-color: #5F38D9;
+  padding: 180px;
+
+}
+
+.content2 {
+  background-color: #FEDDD9;
+  padding: 180px;
+
+}
+
+.content3 {
+  background-color: #FE30D9;
+  padding: 180px;
+}
+
+.content4{
+  background-color: #FFFFD9;
+  padding-bottom: 400px;
+}
+
+.content5{
+  background-color: #FFF0D9;
+  padding-bottom: 400px;
+}
+
+.content6{
+  background-color: #FFDDFF;
+  padding-bottom: 400px;
+}
+
+.content7{
+  background-color: #FF90F9;
+  padding-bottom: 400px;
+}
+
+.imagen{
+  width: 100%;
+}
